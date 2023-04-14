@@ -14,8 +14,6 @@ import CONFIG from '@/app-config'
 import HeaderSb from '@/components/HeaderSb'
 import NavBarSb from '@/components/NavBarSb'
 import { FetchInterceptor } from '@/FetchInterceptor'
-import { RESTAdaptorInterface } from '@/models/RESTAdaptorInterface'
-import { Trip } from '@/models/Trip'
 import { TripAdaptor } from '@/models/TripAdaptor'
 
 export default {
